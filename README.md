@@ -10,9 +10,9 @@ I want to build a clone of the game Tetris using VueJS 3. However I want one big
 
 ## Running the game instructions
 
-    ``` 
-    git clone https://github.com/WayneGreeley/vue-tetris
-    cd vue-tetris-clone
-    npm install
-    npm run dev
-    ```
+``` 
+git clone https://github.com/WayneGreeley/vue-tetris
+cd vue-tetris-clone
+npm install
+npm run dev
+```
