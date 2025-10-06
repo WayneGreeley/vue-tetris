@@ -9,7 +9,12 @@
     "build-check": "vue-tsc && vite build",
     "preview": "vite preview"
   },
-  "keywords": ["vue", "tetris", "game", "typescript"],
+  "keywords": [
+    "vue",
+    "tetris",
+    "game",
+    "typescript"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
