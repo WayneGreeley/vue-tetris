@@ -7,5 +7,9 @@ export default defineConfig({
     alias: {
       '@': '/src'
     }
+  },
+  base: '/vue-tetris/',
+  build: {
+    outDir: 'dist'
   }
 })

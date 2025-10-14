@@ -52,6 +52,10 @@ npm run build
 - Node.js 18+ (required for Vite and modern tooling)
 - Modern browser with ES2020 support
 
+## 🎮 Play Online
+
+**🚀 [Play Vue Tetris Clone](https://waynegreeley.github.io/vue-tetris/)**
+
 ## Current Status
 
 ✅ **All Tasks Completed!**
@@ -77,9 +81,15 @@ npm run build
 - 👁️ **Ghost Piece Preview**: Shows where piece will land
 - 🔄 **Game State Management**: Start, pause, restart functionality
 
+## Deployment
+
+The game is automatically deployed to GitHub Pages using GitHub Actions. Every push to the main branch triggers a new deployment.
+
+### Manual Deployment (if needed)
+```bash
+cd vue-tetris-clone
+npm run deploy
+```
+
 ⚠️ **Development Server Note:**
 The current environment has Node.js v12.18.3, but Vite requires Node.js 18+. The code is ready and will work with a modern Node.js version. To run the development server, upgrade to Node.js 18+ and then use `npm run dev`.
-
-## Game Ready!
-
-The Vue Tetris Clone is fully implemented and ready to play once you upgrade Node.js!
